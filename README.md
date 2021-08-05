@@ -1,6 +1,7 @@
 # Advanced Lane Finding
 Advanced Road Lane Lines detection pipeline with Computer Vision.
 [Notebook](/src/Advanced_lane.ipynb)
+![Notebook](/output_images/output_sample.gif)
 
 ## The pipeline is the following:
 
